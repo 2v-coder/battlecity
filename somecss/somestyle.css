@@ -1,0 +1,20 @@
+#some_canvas {
+	background-color: black;
+	border: 40px solid gray;
+}
+body {
+	margin-top: 0;
+}
+.divik {
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+#textDiv {
+	justify-content: space-between;
+}
