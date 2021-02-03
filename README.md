@@ -7,4 +7,4 @@ Controls:
 Movement: WASD, Arrows also work
 Fire: Space Button
 
-PS... Sorry for some awful parts among the code and bugs. 	
+PS... Sorry for some awful parts of the code and bugs. 	
